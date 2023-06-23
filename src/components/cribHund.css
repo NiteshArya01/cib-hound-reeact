@@ -1,0 +1,12 @@
+.search-box {
+    height: 50px;
+    margin-top: 50px;
+}
+
+.search-box[type=text] {
+    font-size: 20px;
+}
+
+.denger {
+    color: red;
+}
